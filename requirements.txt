@@ -1,4 +1,4 @@
 numpy==1.23.0
 opencv-python==4.6.0.66
-pip install opencv-contrib-python
+opencv-contrib-python
 Pillow==9.2.0
